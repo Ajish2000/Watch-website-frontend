@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.mobile-nav{
+    @apply fixed top-20 left-0 bg-gray-500 w-full h-1/4;
+}
